@@ -1,0 +1,11 @@
+{
+    "tasks": [
+        {"name": "Build: Tests", "duration_ms": 34264, "average_cpu_cores": 1.34, "average_memory_mb": 438},
+        {"name": "Build: Core", "duration_ms": 784482, "average_cpu_cores": 3.34, "average_memory_mb": 5520},
+        {"name": "Build: UI", "duration_ms": 1349584, "average_cpu_cores": 0.98, "average_memory_mb": 520},
+        {"name": "Build: comm_lib", "duration_ms": 114639, "average_cpu_cores": 2.63, "average_memory_mb": 3512},
+        {"name": "Static code analysis: Core", "duration_ms": 724534, "average_cpu_cores": 6.4, "average_memory_mb": 712},
+        {"name": "Static code analysis: UI", "duration_ms": 400515, "average_cpu_cores": 3.33, "average_memory_mb": 1960},
+        {"name": "Static code analysis: comm_lib", "duration_ms": 385738, "average_cpu_cores": 5.08, "average_memory_mb": 218}
+    ]
+}
